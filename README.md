@@ -68,3 +68,14 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+This project displays list of shows/movies fetched from an api 
+Whenever u click to any show it will opens up in a new screen which will tell u more information related to the show/movie
+Now on the third screen you can book tickets for the show/Movie and the data is stores in the local storage which can be seen in console.log
+
+
+
+
+
+
+
